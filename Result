@@ -1,0 +1,28 @@
+* * * * * Task 1 * * * * *
+MD5: a437f7654e5789aca96da6555f84d2ea
+SHA-1: e1ca7be0e4ea3908a3ede223b653209851ea4a78
+SHA-256: 75e1a5bf3ce521507a85815189de722fa11d483118e8286aa31d1a1d2609bed0
+
+* * * * * Task 2 * * * * *
+Random bytes: bdeb5c1215c5750c500d73271fe290cf
+MD5: 122e94f323a0ce3b80c0ff633ce96437
+SHA-1: 8fb2f22237ad7d7c7f1f4b03e044326f4986d478
+SHA-256: 9ae56c2215d81a70a50bd55db4e1037a458715adcb265547e4603d7c8f331ec3
+
+* * * * * Task 3 * * * * *
+Student map:
+Petrov Petro Petrovych, 21 y.o., 3 e.y., 85.2 avg.: Student 2
+Ivanov Ivan Ivanovych, 20 y.o., 2 e.y., 90.0 avg.: Student 1
+Finding student1: Student 1
+Finding student1: Student 2
+HashCode student1: 339931215
+HashCode student2: 83339602
+
+Book map:
+Book@2a: Book 2
+Finding book1: Book 2
+Finding book2: Book 2
+Finding book3: Book 2
+HashCode book1: 42
+HashCode book2: 42
+HashCode book3: 42
